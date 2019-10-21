@@ -1,0 +1,8 @@
+{
+  "dl": "**Mario Kart Wii Battle Royale Pack**  \n Riivolution: <https://www.dropbox.com/s/g49ru74403pemzq/MKWBR%20V1.2.1.zip?dl=0>",
+  "dlsize": "The .zip size for MKWBR v1.2.1 is ``836,763,648 bytes`` (``~797.8MB``)",
+  "help": "These are the commands you can use with me: \n 1. +help, makes me send this message. \n 2. +latest, makes me tell you what MKWBR version is the latest. \n 3. +online, makes me talk about some info about Wiimmfi and MKWBR. \n 4. +dlsize, makes me tell you the packed size of MKWBR. \n 5. +dl, makes me give you the download link to MKWBR. \n 6. +status, makes me return with current people on any existing MKWBR region. \n 14. +playerlist xx-xxxx, makes me return the playerlist on any Mario Kart Wii room given. To use this command, Worldwide room TI27 = +playerlist ww-TI27. Continental room TI27 = +playerlist cn-TI27. Private room TI27 = +playerlist pv-TI27. \n 7. +invite, makes me send my invite link for public use. \n ALSO PLEASE USE COMMON SENSE WHILE USING ME AND TALKING TO THE DEVS, THANKS FOR YOUR COOPERATION.",
+  "invite": "Feel free to add the bot to any of your servers! <https://discordapp.com/oauth2/authorize?client_id=498517833958031361&scope=bot&permissions=8>",
+  "latest": "MKWBR Pack is currently on v1.2.1!",
+  "online": "MKWBR Pack supports Wiimmfi, so all error codes are able to be looked up on https://wiimmfi.de/error also keep in mind, MKWBR DOES NOT have people playing all the time so don't be surprised or worried if you cannot find anyone searching for a match."
+}
